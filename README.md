@@ -22,3 +22,5 @@ Dependencies
 Do not reupload the script
 Do not reupload any modifed version without my permission
 Since I have very limited knowledge with coding in general and in fivem I won't be able to help if you encounter any issues. 
+Do not claim this script as your own.
+All rights go to the creator of the script and all rights go to the creators of following dependencies
