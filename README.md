@@ -7,6 +7,7 @@ Info
 2. Currently the script is setup to use gtaDPS Burgershot MLO https://www.gta5-mods.com/maps/burgershot-remastered-gta-v-interior-mod-gtadps
 3. You can easliy move the location inside the client.lua file
 4. Preview https://www.youtube.com/watch?v=2H5xrF1l0eM
+5. The script is standalone
 
 Installation
 1. Download the file
