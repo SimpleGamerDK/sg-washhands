@@ -21,8 +21,9 @@ Dependencies
 3. Progress Bars (Can be changed to which ever one you use https://forum.cfx.re/t/release-progress-bars-1-0-standalone/526287
 4. Mythic Notify (Can be chagned to which ever one you use https://github.com/JayMontana36/mythic_notify
 
-Do not reupload the script
-Do not reupload any modifed version without my permission
+Do not reupload the script and claim it as your own
+You are free to modify and change the script how ever you like
 Since I have very limited knowledge with coding in general and in fivem I won't be able to help if you encounter any issues. 
-Do not claim this script as your own.
 All rights go to the creator of the script and all rights go to the creators of following dependencies
+
+If you modify the script in any way that you think might make it better please contact me via discord: SimpleGamer#1712
