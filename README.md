@@ -4,7 +4,7 @@ This is my first ever script. It's not much but it's something I couldn't find o
 
 Info
 1. Resmond 0.00ms idle, 0.01ms when beginning to wash hands, 0.01ms when finishing washing hands
-2. Currently the script is setup to use gtaDPS Burgershot MLO https://www.gta5-mods.com/maps/burgershot-remastered-gta-v-interior-mod-gtadps
+2. Currently the script uses gtaDPS Burgershot MLO, PablitoMamutoPaputo Taco Restaurant and GABZ UwUCatsCafe, Bean Machine and Pizza This MLOS.
 3. You can easliy move the location inside the client.lua file
 4. Preview https://www.youtube.com/watch?v=2H5xrF1l0eM
 5. The script is standalone
