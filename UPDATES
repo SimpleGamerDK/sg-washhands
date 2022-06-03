@@ -1,0 +1,4 @@
+UPDATE 1.2.0
+Cleaned up the script a little
+Added config file
+Fixed not being able to add more than one location
