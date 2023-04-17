@@ -1,3 +1,7 @@
+UPDATE 1.2.1
+Added locals file
+Added option to configure locations through the config
+
 UPDATE 1.2.0
 Cleaned up the script a little
 Added config file
