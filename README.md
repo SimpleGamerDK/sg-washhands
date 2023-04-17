@@ -27,3 +27,5 @@ Since I have very limited knowledge with coding in general and in fivem I won't 
 All rights go to the creator of the script and all rights go to the creators of following dependencies
 
 If you modify the script in any way that you think might make it better please contact me via discord: SimpleGamer#1712
+
+For support, questions or any suggestions you may have please refer to my discord: https://discord.gg/jm5uDFDCB2
