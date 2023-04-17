@@ -5,7 +5,7 @@ This is my first ever script. It's not much but it's something I couldn't find o
 Info
 1. Resmond 0.00ms idle, 0.01ms when beginning to wash hands, 0.01ms when finishing washing hands
 2. Currently the script uses gtaDPS Burgershot MLO and PablitoMamutoPaputo Taco Restaurant.
-3. Add, remove and edit locations in client.lua
+3. Quick and easy config
 4. Preview https://www.youtube.com/watch?v=2H5xrF1l0eM
 5. The script is standalone
 
