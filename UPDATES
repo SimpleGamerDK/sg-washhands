@@ -1,3 +1,7 @@
+UPDATE 1.2.2
+Added Support for qb-target and ox-target
+Updated Locals for better use in adding own translation
+
 UPDATE 1.2.1
 Added locals file
 Added option to configure locations through the config
